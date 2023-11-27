@@ -1,6 +1,6 @@
 {
   "name": "vue3-google-icon",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "private": false,
   "license":"MIT",
   "repository": {
@@ -20,6 +20,14 @@
       "types": "./dist/index.d.ts"
     }
   },
+  "keywords": [
+    "vue",
+    "vue3",
+    "icon",
+    "material",
+    "component",
+    "ui"
+  ],
   "scripts": {
     "dev": "vite",
     "build": "run-p type-check \"build-only {@}\" --",
