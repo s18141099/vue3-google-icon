@@ -12,18 +12,6 @@ npm install vue3-google-icon
 
 ## Usage
 
-use plugin.
-```vue
-<script>
-import { IconPlugin } from "vue3-google-icon"
-
-createApp(App)
-    .use(IconPlugin)
-    .mount('#app')
-</script>
-```
-
-or
 ```vue
 <script setup lang="ts">
 import { Icon } from "vue3-google-icon"
